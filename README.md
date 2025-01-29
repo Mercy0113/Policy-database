@@ -13,10 +13,3 @@
 - **爬虫抓取**：使用Python爬虫从政府官网抓取政策数据并上传到Airtable。
 - **可视化展示**：通过Airtable内置视图展示政策数据，支持表格、Kanban、日历等多种视图形式。
 
-## 安装和使用
-
-### 1. 克隆项目
-
-```bash
-git clone https://github.com/yourusername/政策数据库项目.git
-cd 政策数据库项目
